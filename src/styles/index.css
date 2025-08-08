@@ -1,0 +1,33 @@
+@import './tailwind.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Lato:wght@400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+/* hide-scrollbar.css */
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hidden {
+  -ms-overflow-style: none; /* IE & Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.scrollbar-hidden-x::-webkit-scrollbar {
+  height: 0px;
+}
+.scrollbar-hidden-x {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Edge */
+}
+.scroll-snap-container {
+  -webkit-overflow-scrolling: touch;
+}

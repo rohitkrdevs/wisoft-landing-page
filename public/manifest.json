@@ -1,0 +1,8 @@
+{
+  "short_name": "Wisoft",
+  "name": "Wisoft Landing Page",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#646cff",
+  "background_color": "#ffffff"
+}
