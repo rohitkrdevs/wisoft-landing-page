@@ -6,11 +6,9 @@ This project showcases services, projects, testimonials, and features smooth UI 
 ## Features
 
 - Responsive Hero section with background image and interactive service categories
-- Services section with "View More" functionality
 - Project and testimonial sliders/carousels
 - Custom reusable UI components: Button, EditText, TextArea
 - Responsive header with dropdown menus and centered logo on mobile
-- Horizontally scrollable "Our Projects" section with smooth scrolling
 
 ## Tech Stack
 
