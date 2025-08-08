@@ -33,3 +33,7 @@ This project showcases services, projects, testimonials, and features smooth UI 
    ```bash
    npm start
    ```
+
+# Running Version of the website if here:
+
+https://wisoft-landing-page.netlify.app/
