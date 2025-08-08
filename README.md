@@ -1,4 +1,4 @@
-# Wisof Landing Page
+# Wisoft Landing Page
 
 A responsive and interactive landing page for Wisoft Solutions built with React.  
 This project showcases services, projects, testimonials, and features smooth UI interactions designed for an optimal user experience.
